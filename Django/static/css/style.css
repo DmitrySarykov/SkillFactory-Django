@@ -1,0 +1,29 @@
+
+.bg-dark-color{
+    background-color: #190733;
+}
+.dark-color{
+    color: #190733;
+}
+.bg-purple-color{
+    background-color: #7B29E1;
+    color: #ffffff;
+}
+.btn-purple-border{
+    border-color: #7B29E1;
+    color: #7B29E1;
+}
+.purple-color{
+    color: #7B29E1;
+}
+.bg-orange-color{
+    background-color: #FF8617;
+    color: #190733;
+}
+.orange-color{
+    color: #FF8617;
+}
+.scary-font{
+    font-size: 20px;
+    font-family: 'Chevin Pro DemiBold';
+}
